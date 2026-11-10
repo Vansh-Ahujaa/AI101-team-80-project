@@ -50,7 +50,7 @@ python -m venv venv
 venv\Scripts\activate
 ```
 ```
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 The first two lines download the project and go into its folder.
@@ -80,7 +80,7 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 ```
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 The setup completed here. Now , you can run the project.
@@ -89,7 +89,7 @@ The setup completed here. Now , you can run the project.
 
 1. In the same terminal, with `(venv)` showing, type:
    ```
-   jupyter notebook
+   python -m notebook
    ```
 2. A browser page opens. Click the src folder and then main.ipynb.
 3. At the top, click Kernel, then Restart Kernel and Run All Cells.
