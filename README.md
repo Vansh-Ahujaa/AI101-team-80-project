@@ -103,7 +103,7 @@ The setup completed here. Now , you can run the project.
 ![Actual vs. predicted diamond prices](docs/output.png)
 
 ## Links
-- Slides (5): [docs/Team80_slides.pdf](docs/Team80_slides.pdf)
+- Slides (5): [Project PPT](docs/Team80_Diamond_Price_PPT.pdf)
 - Video (max 5 min): [youtu.be/XXXXXXXXXXX](https://youtu.be/XXXXXXXXXXX)
 
 ## AI-use disclosure
