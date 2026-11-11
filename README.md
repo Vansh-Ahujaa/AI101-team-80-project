@@ -104,7 +104,7 @@ The setup completed here. Now , you can run the project.
 
 ## Links
 - Slides (5): [Project PPT](docs/Team80_Diamond_Price_PPT.pdf)
-- Video (max 5 min): [youtu.be/XXXXXXXXXXX](https://youtu.be/XXXXXXXXXXX)
+- Video (max 5):[https://drive.google.com/file/d/1KJVTnksQ1SEfHXCrbT5IqCp4jk9koZVc/view?usp=drivesdk](https://drive.google.com/file/d/1KJVTnksQ1SEfHXCrbT5IqCp4jk9koZVc/view?usp=drivesdk)
 
 ## AI-use disclosure
 - **ChatGpt**- It was used for debugging of the code and to create the first draft of this readme.
