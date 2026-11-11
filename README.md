@@ -20,7 +20,7 @@ AI101-team-80-project/
 ├── docs/
 │   │── output.png           #Regression plot
 │   │── results_scores.jpeg  #Results
-│   └── 
+│   └── Team80_Diamond_Price_PPT.pdf #PPT
 │ 
 ├── src/
 │   └── main.ipynb           # notebook: data → model → results
